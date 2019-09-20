@@ -1,5 +1,3 @@
-
-.a.txt.swp
-.a.txt.un~
-a.txt~
+*.swp
+*~
 tags
